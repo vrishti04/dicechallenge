@@ -1,0 +1,50 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color:#393E46 ;
+  user-select: none;
+  
+}
+img{
+  width: 80%;
+}
+h1{
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive ;
+  font-size: 8rem;
+  margin: 30px;
+}
+p{
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive ;
+  font-size: 2rem;
+  
+}
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+footer{
+  text-align: center;
+  color:white;
+  font-family: 'Lobster', cursive ;
+}
+.dice{
+  display: inline-block;
+  text-align: center;
+}
+.rollme{
+  margin: 30px;
+  
+}
+
+.rollme>button{
+  background-color: #4ECCA3;
+  height: 40px;
+  width: 90px;
+  box-shadow: 1px 1px 1px grey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
